@@ -1,0 +1,2 @@
+- For the assignment I cleaned the html file up and changed some of the css to make it look cleaner
+  -Made the tabs in the nav bar all work because one of them was broken
